@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+hello world...!
+=======
+hello venky world
+>>>>>>> branch2
+
+hi my name is venkateswara
+
